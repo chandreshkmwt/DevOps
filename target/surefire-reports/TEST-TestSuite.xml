@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="10.479" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="13.182" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,29 +18,29 @@
     <property name="os.name" value="Windows 10"/>
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_301\bin"/>
-    <property name="sun.java.command" value="C:\Users\Chandreshwar\AppData\Local\Temp\surefire6706809678251081337\surefirebooter7704354325483415667.jar C:\Users\Chandreshwar\AppData\Local\Temp\surefire6706809678251081337 2021-10-13T15-00-27_759-jvmRun1 surefire5009608821841934258tmp surefire_03999794742684660001tmp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_301\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Chandreshwar\AppData\Local\Temp\surefire7725903083686825269\surefirebooter7230875615377797946.jar C:\Users\Chandreshwar\AppData\Local\Temp\surefire7725903083686825269 2021-10-13T17-55-51_046-jvmRun1 surefire2186823098468400024tmp surefire_08993274726434118544tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\Chandreshwar\eclipse-workspace\DevOps\target\test-classes;C:\Users\Chandreshwar\eclipse-workspace\DevOps\target\classes;C:\Users\Chandreshwar\.m2\repository\org\testng\testng\6.10\testng-6.10.jar;C:\Users\Chandreshwar\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Chandreshwar\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Chandreshwar\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Chandreshwar\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Chandreshwar\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Chandreshwar\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Chandreshwar\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Chandreshwar\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Chandreshwar\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Chandreshwar\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Chandreshwar\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Chandreshwar"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_301"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_301\jre"/>
     <property name="basedir" value="C:\Users\Chandreshwar\eclipse-workspace\DevOps"/>
     <property name="file.separator" value="\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Chandreshwar\AppData\Local\Temp\surefire6706809678251081337\surefirebooter7704354325483415667.jar"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_301\lib\resources.jar;C:\Program Files\Java\jre1.8.0_301\lib\rt.jar;C:\Program Files\Java\jre1.8.0_301\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_301\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_301\lib\jce.jar;C:\Program Files\Java\jre1.8.0_301\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_301\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_301\classes"/>
+    <property name="surefire.real.class.path" value="C:\Users\Chandreshwar\AppData\Local\Temp\surefire7725903083686825269\surefirebooter7230875615377797946.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_301\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_301\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_301\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_301-b09"/>
     <property name="user.name" value="Chandreshwar"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_301\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_301\jre\lib\endorsed"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
@@ -53,26 +53,26 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_301\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\apache-maven-3.8.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Chandreshwar\AppData\Local\Microsoft\WindowsApps;C:\Python37\Scripts;C:\Python38-32\Scripts;C:\Users\Chandreshwar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Chandreshwar\AppData\Roaming\npm;C:\Users\Chandreshwar\Anaconda3;C:\Users\Chandreshwar\Anaconda3\Scripts;C:\Users\Chandreshwar\Anaconda3\Library\bin;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_301\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_301/bin/server;C:/Program Files/Java/jre1.8.0_301/bin;C:/Program Files/Java/jre1.8.0_301/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\apache-maven-3.8.3\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Chandreshwar\AppData\Local\Microsoft\WindowsApps;C:\Python37\Scripts;C:\Python38-32\Scripts;C:\Users\Chandreshwar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Chandreshwar\AppData\Roaming\npm;C:\Users\Chandreshwar\Anaconda3;C:\Users\Chandreshwar\Anaconda3\Scripts;C:\Users\Chandreshwar\Anaconda3\Library\bin;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;C:\Users\Chandreshwar\Downloads\eclipse-jee-2020-03-R-incubation-win32-x86_64\eclipse;;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.301-b09"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_301\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_301\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
   <testcase name="invalidLoginTest" classname="logintest.AppTest" time="0.001">
     <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}) on port 24923
+    <system-err><![CDATA[Starting ChromeDriver 94.0.4606.41 (333e85df3c9b656b518b5f1add5ff246365b6c24-refs/branch-heads/4606@{#845}) on port 29232
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Oct 13, 2021 3:00:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Oct 13, 2021 5:55:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
   <testcase name="validLoginTest" classname="logintest.AppTest" time="0"/>
   <testcase name="intComparision" classname="logintest.NumberComparision" time="0"/>
-  <testcase name="titleTest" classname="logintest.SeleniumDev" time="2.633"/>
+  <testcase name="titleTest" classname="logintest.SeleniumDev" time="2.795"/>
 </testsuite>

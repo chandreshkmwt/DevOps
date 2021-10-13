@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8542" started-at="2021-10-13T09:30:30Z" finished-at="2021-10-13T09:30:39Z">
+  <suite name="Suite" duration-ms="9444" started-at="2021-10-13T12:25:56Z" finished-at="2021-10-13T12:26:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8542" started-at="2021-10-13T09:30:30Z" finished-at="2021-10-13T09:30:39Z">
+    <test name="Test" duration-ms="9444" started-at="2021-10-13T12:25:56Z" finished-at="2021-10-13T12:26:06Z">
       <class name="logintest.SeleniumDev">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:logintest.SeleniumDev@6295d394]" name="beforeTest" is-config="true" duration-ms="2059" started-at="2021-10-13T15:00:30Z" finished-at="2021-10-13T15:00:32Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:logintest.SeleniumDev@6295d394]" name="beforeTest" is-config="true" duration-ms="2792" started-at="2021-10-13T17:55:56Z" finished-at="2021-10-13T17:55:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="titleTest()[pri:0, instance:logintest.SeleniumDev@6295d394]" name="titleTest" duration-ms="2680" started-at="2021-10-13T15:00:32Z" finished-at="2021-10-13T15:00:35Z">
+        <test-method status="PASS" signature="titleTest()[pri:0, instance:logintest.SeleniumDev@6295d394]" name="titleTest" duration-ms="2799" started-at="2021-10-13T17:55:59Z" finished-at="2021-10-13T17:56:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- titleTest -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:logintest.SeleniumDev@6295d394]" name="afterTest" is-config="true" duration-ms="3750" started-at="2021-10-13T15:00:35Z" finished-at="2021-10-13T15:00:39Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:logintest.SeleniumDev@6295d394]" name="afterTest" is-config="true" duration-ms="3797" started-at="2021-10-13T17:56:02Z" finished-at="2021-10-13T17:56:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- logintest.SeleniumDev -->
       <class name="logintest.AppTest">
-        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:logintest.AppTest@475e586c]" name="invalidLoginTest" duration-ms="18" started-at="2021-10-13T15:00:32Z" finished-at="2021-10-13T15:00:32Z">
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:logintest.AppTest@475e586c]" name="invalidLoginTest" duration-ms="16" started-at="2021-10-13T17:55:59Z" finished-at="2021-10-13T17:55:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLoginTest -->
-        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:logintest.AppTest@475e586c]" name="validLoginTest" duration-ms="0" started-at="2021-10-13T15:00:32Z" finished-at="2021-10-13T15:00:32Z">
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:logintest.AppTest@475e586c]" name="validLoginTest" duration-ms="0" started-at="2021-10-13T17:55:59Z" finished-at="2021-10-13T17:55:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
       </class> <!-- logintest.AppTest -->
       <class name="logintest.NumberComparision">
-        <test-method status="PASS" signature="intComparision()[pri:0, instance:logintest.NumberComparision@657c8ad9]" name="intComparision" duration-ms="1" started-at="2021-10-13T15:00:32Z" finished-at="2021-10-13T15:00:32Z">
+        <test-method status="PASS" signature="intComparision()[pri:0, instance:logintest.NumberComparision@657c8ad9]" name="intComparision" duration-ms="2" started-at="2021-10-13T17:55:59Z" finished-at="2021-10-13T17:55:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intComparision -->
